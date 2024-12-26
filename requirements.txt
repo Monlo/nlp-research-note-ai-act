@@ -1,0 +1,7 @@
+import nltk
+
+# Download necessary NLTK datasets
+nltk.download('punkt')    # For tokenization
+nltk.download('wordnet')  # For lemmatization
+nltk.download('stopwords')  # For stopwords
+nltk.download('omw-1.4')   # Optional for multilingual wordnet support

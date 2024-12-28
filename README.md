@@ -4,6 +4,8 @@ This repository contains code and resources for analyzing public consultation fe
 
 The workflow follows key **Natural Language Processing (NLP)** techniques,  data scraping, sentence extraction, keyword filtering, and textual analysis to identify and analyze recurring themes and patterns in the feedback data.
 
+The research note can be consulted [**here**](./ai_act_research_note.pdf).
+
 ---
 
 ## **Repository Structure**

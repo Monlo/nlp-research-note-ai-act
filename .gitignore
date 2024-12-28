@@ -3,3 +3,4 @@ nlp/
 .git
 .idea
 .DS_Store
+.gitattributes
